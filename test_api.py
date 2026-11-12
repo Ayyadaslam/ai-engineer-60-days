@@ -1,7 +1,7 @@
 import requests
 
 url = "http://127.0.0.1:8000/chat"
-payload = {"message": "Mujhe 5 lines mein batao AI Engineer kaise banein"}
+payload = {"message": "give me the  road map of ai software engineer"}
 headers = {"Content-Type": "application/json"}
 
 print("AI ka jawab aa raha hai:\n")
